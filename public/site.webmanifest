@@ -1,0 +1,16 @@
+{
+  "name": "Satya ERP",
+  "short_name": "Satya ERP",
+  "description": "Business command center untuk HR, proyek IT, accounting, dan CRM.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eeecec",
+  "theme_color": "#146EF5",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
